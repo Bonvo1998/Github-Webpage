@@ -1,0 +1,40 @@
+div {
+    margin: 0 auto;
+    width: 75%;
+}
+p {
+    margin: 0px;
+}
+center {
+    margin: 10%;
+    text-align: center;
+}
+header, nav, footer {
+    background-color: grey;
+    text-align: center;
+    font-size: 20px;
+}
+main {
+    margin: auto;
+    height: auto;
+    background-color: grey; 
+    overflow: hidden;
+    text-align: center;
+
+}
+nav, footer {
+    background-color: gold;
+    color: whitesmoke;
+}
+
+ul {
+    margin-left: -40px;
+    list-style-type: none;
+}
+img {
+    height: ;
+    width: 30%;
+}
+body {
+    background-color: rgb(65, 64, 64);
+} 
